@@ -1,5 +1,4 @@
-
-    h1 {
+  h1 {
     	color: rgb(255,91,71,22);
         text-align: center;
         font-family: arial;
@@ -10,7 +9,35 @@
       	color: red;
         font-family: arial;
         font-size: 18px;
+        border: 1px solid tomato;
+        padding: 30px;
+        margin: 50px;
         }
       body{
         background-color:powderblue;
         }
+      #p01 {
+      	color: Yellow;
+        	}
+            a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
